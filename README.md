@@ -2,4 +2,4 @@
 
 First ever page
 
---Might not look that good.--
+~~Might not look that good.~~
